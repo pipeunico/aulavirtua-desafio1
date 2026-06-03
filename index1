@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Wallet CLP - Tu billetera digital</title>
+</head>
+<body>
+
+    <header>
+        <h1>Wallet CLP</h1>
+        <nav>
+            <a href="index.html">Mi Wallet</a>
+            <a href="#">Transferir</a>
+            <a href="destinatarios.html">Destinatarios</a>
+            <a href="#">Recargar</a>
+            <a href="perfil.html">Perfil</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Bienvenido a tu Wallet</h2>
+        <p>Gestiona tus lucas de forma rápida y segura.</p>
+    </main>
+
+    <footer>
+        <p>Wallet CLP - Todos los derechos reservado 2026</p>
+    </footer>
+
+</body>
+</html>
